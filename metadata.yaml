@@ -1,0 +1,32 @@
+_repo: Two-Ghostly-MysteriesA-Chapter-in-the-History-of-a-Tyrone-Family--and-the-Murdered-Cousin_12828
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Le Fanu, Joseph Sheridan
+    aliases:
+    - Fanu, J. Sheridan Le
+    - LeFanu, J. S. (Joseph Sheridan)
+    - Fanu, Joseph Sheridan Le
+    birthdate: 1814
+    deathdate: 1873
+    gutenberg_agent_id: '272'
+    url: http://www.gutenberg.org/2009/agents/272
+    wikipedia: http://en.wikipedia.org/wiki/Sheridan_Le_Fanu
+description: ''
+gutenberg_issued: '2004-07-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12828'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ghost stories'
+- !lcsh 'Ireland -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: 'Two Ghostly Mysteries
+
+  A Chapter in the History of a Tyrone Family; and the Murdered Cousin'
+url: http://www.gutenberg.org/ebooks/12828
