@@ -1,5 +1,8 @@
 _repo: Two-Ghostly-MysteriesA-Chapter-in-the-History-of-a-Tyrone-Family--and-the-Murdered-Cousin_12828
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Le Fanu, Joseph Sheridan
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/272
     wikipedia: http://en.wikipedia.org/wiki/Sheridan_Le_Fanu
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12828#Two-Ghostly-MysteriesA-Chapter-in-the-History-of-a-Tyrone-Family--and-the-Murdered-Cousin
 gutenberg_issued: '2004-07-06'
 gutenberg_type: Text
 identifiers:
